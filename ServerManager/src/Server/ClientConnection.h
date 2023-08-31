@@ -1,0 +1,7 @@
+
+class ClientConnection {
+  public:
+
+  private:
+
+};
